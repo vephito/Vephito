@@ -79,21 +79,21 @@
     min-height: unset;
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
     align-items: center;
     text-align: center;
   }
   .intro-title {
     color: #ffd500;
-    font-size: 34px;
+    font-size: 46px;
   }
   .intro-name {
     color: #64ffda;
-    font-weight: bold;
+    font-weight: 700;
   }
   .intro-subtitle {
     color: #ffd500;
 
-    margin-top: -30px;
     font-weight: 300;
     font-size: 28px;
     text-align: center;
@@ -120,5 +120,7 @@
     color: #ffd500;
     text-align: center;
     font-size: 55px;
+    margin-top: 28px;
+    padding-bottom: 10px;
   }
 }
