@@ -14,8 +14,8 @@ export default function Intro() {
           <span className="intro-name">{"vephito"}</span>
           {" here."}
           <Typist.Backspace count={5} delay={200} />
-          <span className="intro-name">{"dasai "}</span>
-          {"here."}
+          {/*<span className="intro-name">{"dasai "}</span>
+          {"here."}*/}
         </span>
       </Typist>
       <Fade bottom>
