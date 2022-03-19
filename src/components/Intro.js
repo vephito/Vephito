@@ -13,8 +13,8 @@ export default function Intro() {
           {"hi, "}
           <span className="intro-name">{"vephito"}</span>
           {" here."}
-          <Typist.Backspace count={5} delay={200} />
-          {/*<span className="intro-name">{"dasai "}</span>
+          {/*<Typist.Backspace count={5} delay={200} />
+          <span className="intro-name">{"dasai "}</span>
           {"here."}*/}
         </span>
       </Typist>
