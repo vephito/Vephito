@@ -18,20 +18,17 @@ export default function Intro() {
           {"here."}*/}
         </span>
       </Typist>
+
       <Fade bottom>
-        <div className="intro-subtitle">I create stuff sometimes.</div>
+        <div className="intro-subtitle"></div>
         <div className="intro-desc">
           I'm a software engineer in India. I have profound interest in
           full-stack development, Machine Learning and everything in between.
         </div>
-      </Fade>
-      <Fade bottom>
-        <div className="mail">
-          <a href="mailto:vephitodasai5@mail.com" className="intro-contact">
-            <MailIcon></MailIcon>
-            <b>{"  " + "Say hello"}</b>
-          </a>
-        </div>
+        <a href="mailto:vephitodasai5@mail.com" className="intro-contact">
+          <MailIcon></MailIcon>
+          <b>{"  " + "Say hello"}</b>
+        </a>
       </Fade>
     </div>
   );

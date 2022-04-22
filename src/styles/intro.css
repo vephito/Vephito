@@ -29,6 +29,7 @@
   color: #6db8bb;
   max-width: 55%;
   padding-bottom: 50px;
+  margin-top: 50px;
 }
 .intro-contact {
   font-size: 22px;
@@ -115,6 +116,9 @@
     display: flex;
     align-items: center;
     gap: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+    align-self: center;
   }
   .Typist {
     color: #ffd500;
