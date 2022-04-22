@@ -49,9 +49,8 @@
   background-color: rgb(62, 71, 204);
 }
 .Typist {
-  color: #ffd500;
+  color: #dddddd;
   text-align: center;
-
   font-size: 76px;
   margin-top: -30px;
 }
@@ -87,23 +86,19 @@
     padding: 0px;
   }
   .intro-title {
-    color: #ffd500;
     font-size: 46px;
   }
   .intro-name {
-    color: #64ffda;
     font-weight: 700;
   }
   .intro-subtitle {
-    color: #ffd500;
-
     font-weight: 300;
     font-size: 28px;
     text-align: center;
   }
   .intro-desc {
     font-size: 18px;
-    color: #6db8bb;
+
     max-width: 100%;
     padding-bottom: 50px;
   }
@@ -113,7 +108,7 @@
     border: 2px solid white;
     border-radius: 4px;
     text-decoration: none;
-    color: #6db8bb;
+
     padding: 10px 20px;
     display: flex;
     align-items: center;
@@ -123,7 +118,6 @@
     align-self: center;
   }
   .Typist {
-    color: #ffd500;
     text-align: center;
     font-size: 55px;
     margin-top: 28px;
