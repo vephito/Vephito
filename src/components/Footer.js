@@ -5,7 +5,7 @@ export default function footer() {
   return (
     <div className="footer">
       <Fade bottom>
-        <spam className="footer-text">Built and design by Vephito</spam>
+        <spam className="footer-text">Built and design by Vephito.</spam>
       </Fade>
     </div>
   );

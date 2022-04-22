@@ -3,18 +3,19 @@
   font-style: normal;
   font-weight: 200;
   font-display: fallback;
-  color: #ffd500;
+  color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  padding: 100px;
 }
 .intro-title {
-  color: #ffd500;
+  color: #dddddd;
   font-size: 84px;
 }
 .intro-name {
-  color: #64ffda;
+  color: #85c88a;
   font-weight: bold;
 }
 .intro-subtitle {
@@ -26,7 +27,7 @@
 }
 .intro-desc {
   font-size: 24px;
-  color: #6db8bb;
+  color: #dddddd;
   max-width: 55%;
   padding-bottom: 50px;
   margin-top: 50px;
@@ -37,7 +38,7 @@
   border: 2px solid white;
   border-radius: 4px;
   text-decoration: none;
-  color: #6db8bb;
+  color: #85c88a;
   padding: 10px 20px;
   display: flex;
   align-items: center;
@@ -76,13 +77,14 @@
     font-style: normal;
     font-weight: 200;
     font-display: fallback;
-    color: #ffd500;
+
     min-height: unset;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
     text-align: center;
+    padding: 0px;
   }
   .intro-title {
     color: #ffd500;

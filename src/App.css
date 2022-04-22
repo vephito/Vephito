@@ -5,7 +5,7 @@
   src: url("/public/fonts/NTR-Regular.ttf") format("truetype");
 }
 .App {
-  background-color: #112240;
+  background-color: #292f32; /*112240*/
   text-align: center;
 }
 
