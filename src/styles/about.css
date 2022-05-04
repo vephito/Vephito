@@ -1,7 +1,8 @@
 .about {
-  margin-top: -100px;
+  margin-top: -400px;
   display: flex;
   flex-direction: row;
+  padding: 100px;
 }
 .about-tit-des {
   display: flex;
@@ -9,7 +10,7 @@
 }
 
 .about-title {
-  color: #ffd500;
+  color: #85c88a;
   font-weight: 300;
   font-size: 55px;
   margin-bottom: 50px;
@@ -17,7 +18,7 @@
 
 .about-desc > p {
   font-size: 20px;
-  color: #6db8bb;
+  color: #dddddd;
   max-width: 50%;
   line-height: 40px;
 }
@@ -34,18 +35,16 @@
 }
 @media only screen and (max-width: 600px) {
   .about {
-    padding-top: 230px;
+    margin-top: -50px;
+
     height: unset;
     padding-left: 10px;
-    display: block;
   }
   .about-tit-des {
-    display: flex;
-    flex-direction: column;
+    margin-right: -85px;
   }
 
   .about-title {
-    color: #ffd500;
     font-weight: 600;
     font-size: 28px;
     margin-bottom: 50px;
@@ -53,8 +52,8 @@
 
   .about-desc > p {
     font-size: 18px;
-    color: #6db8bb;
-    max-width: 700px;
+    text-align: left;
+    max-width: 100%;
   }
   .me-image {
     display: none;

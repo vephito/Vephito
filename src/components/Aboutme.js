@@ -9,26 +9,26 @@ export default function Aboutme() {
       <Fade bottom>
         <div className="about-tit-des">
           <span className="about-title">about me</span>
-
           <span className="about-desc">
             <p>
-              I am currently studying <b>Computer Science</b> at{" "}
-              <b> University of India </b>, with a focus in Computer
-              applications and Artificial Intelligence.
+              I have completed my Bachelor degree in <b>Computer Application</b>{" "}
+              at <b> Patkai Christian College </b> and will be undertaking my
+              Masters in <b>Computer Application</b> at <b>Kristu Jayanti</b>
             </p>
             <p>
-              I'm into any sort of software development that requires
-              creativity. My other areas of interest include machine learning
-              and frontend development. I also like my fair share of visual arts
-              and video editing. In my free time, I eat guava fruit and play
-              video games. Here are some technologies I have been working with:
+              My interest include machine learning and frontend development. In
+              my free time i play a lot of video games. Here are some
+              technologies I have been working with:
               <li>Javascript</li>
               <li>Python</li>
+              <li>React.js</li>
+              <li>HTML & CSS</li>
             </p>
           </span>
         </div>
+
         <div className="me-images">
-          <img src="" className="me-image" />
+          {/*<img src="./images/me1.jpg" className="me-image" />*/}
         </div>
       </Fade>
     </div>
