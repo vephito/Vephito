@@ -22,6 +22,9 @@
   max-width: 50%;
   line-height: 40px;
 }
+.about-desc b {
+  color: #85c88a;
+}
 .me-image {
   max-width: 300px;
   height: auto;
@@ -33,6 +36,7 @@
 }
 .me-images {
 }
+
 @media only screen and (max-width: 600px) {
   .about {
     margin-top: -50px;
