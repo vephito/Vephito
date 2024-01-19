@@ -12,11 +12,11 @@ export default function Aboutme() {
           <span className="about-desc">
             <p>
               I have completed my Bachelor degree in <b>Computer Application</b>{" "}
-              at <b> Patkai Christian College </b> and will be undertaking my
-              Masters in <b>Computer Application</b> at <b>Kristu Jayanti</b>
+              at <b> Patkai Christian College </b> and currently pursuing
+              Masters in <b>Computer Application</b> at <b>Kristu Jayanti College</b>
             </p>
             <p>
-              My interest include machine learning and frontend development. In
+              My interest include Web Development and Machine Learning. In
               my free time i play a lot of video games. Here are some
               technologies I have been working with:
               <li>Javascript</li>
